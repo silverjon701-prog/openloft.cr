@@ -1,5 +1,8 @@
 # Official Source Code of Gbalda.org
 
+TO RUN THIS YOU NEED crystal-lang.org compiled and installed with shards and redis/crystal redis and SSL libraries likely. It can be changed in any way you want. Please don't pay the hosting company for broken sites. Used Phusion-Passenger to run in Production. You do not need Mongo, any NoSQLs, and you don't need Ruby on Rails and while the source can be patched (somehow... think Ruby made out of C) you don't need to make any changes to this product to run a copy. Produced by Jonathan Silvermn in 2019-2026.
+
+
 Multiuser image editor, HTML5 on Rails/Ruby orignally and then Crystal-lang.org
 
 # Fun and fast!
