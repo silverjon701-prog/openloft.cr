@@ -1,4 +1,10 @@
-# openloft.cr
+# Official Source Code of Gbalda.org
+
+Multiuser image editor, HTML5 on Rails/Ruby orignally and then Crystal-lang.org
+
+# Fun and fast!
+
+Faster than MSPaint for fun reasons.
 
 [![Amber Framework](https://img.shields.io/badge/using-amber_framework-orange.svg)](https://amberframework.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RK689NEEMXCYE)
 
